@@ -1,5 +1,13 @@
-# 💫 About Me:
-💫 About Me: 👋 Hello, I'm Akmal Suhaimi, a junior PHP developer at Appvolusi Sdn Bhd. I am passionate about web development and currently involved in the development of resitku.com, a product of AppVolusi.<br><br>📚 I'm constantly expanding my skills and knowledge by learning Flutter and AWS, as I believe in staying up-to-date with the latest trends and technologies in the industry.<br><br>💬 I'm always open to making new connections and collaborating with like-minded individuals. Feel free to reach out to me if you'd like to connect, discuss projects, or simply have a friendly chat.<br><br>⚡ Apart from coding, I also find joy in playing online games, which serves as a creative outlet and a way to relax.
+💫 About Me
+👋 Hi, I’m Akmal Suhaimi — a full stack web developer who thrives on solving backend challenges and building scalable systems. I specialize in Laravel, Vue.js, MySQL, and AWS, with solid experience in API integration, cloud infrastructure, and transitioning monoliths to microservices.
+
+🛠 My focus is on writing clean, maintainable code and delivering real business value through efficient backend architecture, automation, and feature-driven development. I've worked on everything from invoicing systems to e-commerce and SaaS platforms.
+
+🚀 Currently, I'm deepening my frontend skills with Nuxt.js and sharpening my product mindset to bridge the gap between engineering and user needs.
+
+🎮 When I’m off the clock, I enjoy gaming, thinking up new side projects, and leveling up my knowledge in tech and product strategy.
+
+📬 Always open to interesting conversations, collaborations, or just sharing ideas—feel free to connect!
 
 
 ## 🌐 Socials:
