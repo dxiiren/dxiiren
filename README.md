@@ -78,16 +78,16 @@ Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB ·
 
 ## 📊 GitHub stats
 
-![](https://github-stats-extended-seven.vercel.app/api?username=dxiiren&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&show=prs_merged,prs_merged_percentage)
-![](https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&layout=donut&size_weight=0&count_weight=1&langs_count=9&hide=hack,jupyter%20notebook,blade,just,html,css)
+<p align="center">
+  <img height="190" alt="GitHub stats" src="https://github-stats-extended-seven.vercel.app/api?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,prs_merged_percentage&amp;card_width=340" />
+  <img height="190" alt="Most used languages" src="https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;langs_count=8&amp;hide=hack,jupyter%20notebook,blade,just,html,css&amp;card_width=340" />
+</p>
 
-> Languages ranked by how many projects use them, not bytes of code — the point is range.
+<p align="center"><sub>Languages ranked by how many projects use them, not bytes of code — the point is range.</sub></p>
 
-## 📌 Pinned work
-
-![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=cp-detection&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
-![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=career-buddy&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
-![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=project-skeleton&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
+<p align="center">
+  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=dxiiren&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=F5A623&amp;point=F5A623&amp;area_color=F5A623&amp;title_color=F5A623&amp;area=true&amp;custom_title=Contribution%20activity" />
+</p>
 
 ## 📬 Reach me
 
