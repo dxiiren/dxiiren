@@ -78,8 +78,8 @@ Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB ·
 
 ## 📊 GitHub stats
 
-![](https://github-stats-extended-mauve.vercel.app/api?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-stats-extended-mauve.vercel.app/api/top-langs/?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📬 Reach me
 
