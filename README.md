@@ -13,52 +13,62 @@ I build teams, not just systems — and when queries take minutes, I make them t
 | Project | What it is |
 |---|---|
 | [cp-detection](https://github.com/dxiiren/cp-detection) · [live](https://cp-detection.vercel.app) | Copy/cut/paste and drag-drop provenance detector with a privacy boundary — strict TDD, 280+ Vitest + Playwright tests (TypeScript, React 19) |
-| [carreer-buddy-proto](https://github.com/dxiiren/carreer-buddy-proto) · [live](https://carreer-buddy-proto.vercel.app) | Nuxt 3 career-prep prototype for Malaysian youth — dashboard, AI chat, resume builder, interview simulation; 843 Vitest cases, typecheck-clean |
+| [career-buddy](https://github.com/dxiiren/career-buddy) · [live](https://carreer-buddy-proto.vercel.app) | Nuxt 3 career-prep prototype for Malaysian youth — dashboard, AI chat, resume builder, interview simulation; 843 Vitest cases, typecheck-clean |
 | [akmalsuhaimi.com](https://www.akmalsuhaimi.com) | My resume site — Nuxt 3, 100% test coverage, CI-gated (repo private) |
 | [project-skeleton](https://github.com/dxiiren/project-skeleton) | Clone-and-go project scaffolder for 9 stacks — setup script, justfile, docs set, Claude skills, plus an AI grounding pass |
-| [upload-product-laravel-excel](https://github.com/dxiiren/upload-product-laravel-excel) | Laravel 12 inventory API over REST + GraphQL — queued bulk Excel imports with row-level error reporting, idempotent re-imports |
+| [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api) | Laravel 12 inventory API over REST + GraphQL — queued bulk Excel imports with row-level error reporting, idempotent re-imports |
 | [job-portal](https://github.com/dxiiren/job-portal) | Laravel 12 job board — filterable listings, policy-driven one-apply-per-user auth, employer accounts, PDF CV uploads; PHPUnit-tested |
 | [cinema-ticket-booking](https://github.com/dxiiren/cinema-ticket-booking) | VB.NET WinForms booking system — login, showtimes, 64-seat picker, payment (university project) |
 
 ## 💻 Tech stack
 
+### Proven in these repos
+
+Every badge below is backed by a public repo you can read.
+
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Backend**
+<sub>TypeScript — [cp-detection](https://github.com/dxiiren/cp-detection), [career-buddy](https://github.com/dxiiren/career-buddy) · JavaScript — [vue-inventory-ui](https://github.com/dxiiren/vue-inventory-ui), [music-app](https://github.com/dxiiren/music-app), [e-hailing-calculator](https://github.com/dxiiren/e-hailing-calculator) · PHP — [job-portal](https://github.com/dxiiren/job-portal), [livewire-csv-importer](https://github.com/dxiiren/livewire-csv-importer), [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api) · Java — [java-oop-exercises](https://github.com/dxiiren/java-oop-exercises), [java-data-structures](https://github.com/dxiiren/java-data-structures) · Python — [python-bootcamp-projects](https://github.com/dxiiren/python-bootcamp-projects) · C++ — [cpp-programming-exercises](https://github.com/dxiiren/cpp-programming-exercises) · VB.NET — [cinema-ticket-booking](https://github.com/dxiiren/cinema-ticket-booking), [vbnet-winforms-labs](https://github.com/dxiiren/vbnet-winforms-labs) · SQL + GraphQL — [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api), [laravel-sales-api](https://github.com/dxiiren/laravel-sales-api) · PowerShell — [project-skeleton](https://github.com/dxiiren/project-skeleton)</sub>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Frameworks**
 
-**Frontend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Nuxt](https://img.shields.io/badge/Nuxt_3-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82) ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<sub>Laravel — [job-portal](https://github.com/dxiiren/job-portal), [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api), [laravel-sales-api](https://github.com/dxiiren/laravel-sales-api) · Livewire — [livewire-poll](https://github.com/dxiiren/livewire-poll), [livewire-csv-importer](https://github.com/dxiiren/livewire-csv-importer) · Vue 3 — [vue-inventory-ui](https://github.com/dxiiren/vue-inventory-ui), [music-app](https://github.com/dxiiren/music-app) · Nuxt 3 — [career-buddy](https://github.com/dxiiren/career-buddy) · React 19 + TanStack — [cp-detection](https://github.com/dxiiren/cp-detection) · Flask — [python-bootcamp-projects](https://github.com/dxiiren/python-bootcamp-projects) · Tailwind CSS — [career-buddy](https://github.com/dxiiren/career-buddy), [job-portal](https://github.com/dxiiren/job-portal)</sub>
 
-**Databases**
+**Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS_%28SNS_%C2%B7_SQS_%C2%B7_ECS_%C2%B7_S3_%C2%B7_Lambda%29-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Gitea CI/CD](https://img.shields.io/badge/Gitea_CI%2FCD-609926?style=for-the-badge&logo=gitea&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<sub>MySQL — [laravel-sales-api](https://github.com/dxiiren/laravel-sales-api), [my-penawar](https://github.com/dxiiren/my-penawar) · SQLite — [job-portal](https://github.com/dxiiren/job-portal), [book-review](https://github.com/dxiiren/book-review), [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api) · Firebase — [music-app](https://github.com/dxiiren/music-app)</sub>
 
 **Testing**
 
-![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge) ![REST Assured](https://img.shields.io/badge/REST_Assured-43B02A?style=for-the-badge)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+<sub>PHPUnit — [job-portal](https://github.com/dxiiren/job-portal), [book-review](https://github.com/dxiiren/book-review), [laravel-inventory-api](https://github.com/dxiiren/laravel-inventory-api), [livewire-csv-importer](https://github.com/dxiiren/livewire-csv-importer), [event-management](https://github.com/dxiiren/event-management), [livewire-poll](https://github.com/dxiiren/livewire-poll) · Vitest — [career-buddy](https://github.com/dxiiren/career-buddy) (843 cases), [cp-detection](https://github.com/dxiiren/cp-detection) · Playwright — [cp-detection](https://github.com/dxiiren/cp-detection), [career-buddy](https://github.com/dxiiren/career-buddy) · Cypress — [music-app](https://github.com/dxiiren/music-app). TDD red→green is the working practice across these repos.</sub>
 
 **AI & Automation**
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+<sub>Claude Code + MCP — [project-skeleton](https://github.com/dxiiren/project-skeleton) (9-stack scaffolder with an AI grounding pass), plus the `.claude` skills kit committed in every repo above</sub>
+
+### Professional stack (production work, not in public repos)
+
+Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB · AWS (SNS/SQS/ECS/S3/Lambda) · Docker · Nginx · Jenkins · Gitea CI/CD · Harbor · Prometheus · Grafana · SonarQube · REST Assured · Ollama · vLLM
 
 ## 📈 Experience highlights
 
-| Company | Role | Impact |
-|---|---|---|
-| [Kollect Systems](https://www.kollect.biz) | Senior Technical Consultant (2026 – present) | Team of 14 \| 3-Portal System |
-| [YoPrint](https://www.yoprint.com) | Backend Engineer | 95% data mismatch reduction |
-| [Biztory Cloud](https://biztory.com.my) | Backend Developer | 50K+ daily transactions |
-| [Ean Label](https://eanlabel.com.my) | IT Trainee (K-Youth — Khazanah Nasional) | 30% productivity increase |
-| [Appvolusi](https://appvolusi.com) | Fullstack Developer | 60% faster deployments |
+| Role | Impact |
+|---|---|
+| Senior Technical Consultant | Team of 14 \| 3-portal platform migration |
+| Backend Engineer | 95% data mismatch reduction |
+| Backend Developer | 50K+ daily transactions |
+| IT Trainee (K-Youth programme) | 30% productivity increase |
+| Fullstack Developer | 60% faster deployments |
 
 ## 🎓 Education & credentials
 
@@ -73,4 +83,4 @@ I build teams, not just systems — and when queries take minutes, I make them t
 
 ## 📬 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/akmal-suhaimi) · [akmalsuhaimi.com](https://www.akmalsuhaimi.com) · [mohdakmal875.career@gmail.com](mailto:mohdakmal875.career@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akmal-suhaimi) · [akmalsuhaimi.com](https://www.akmalsuhaimi.com)
