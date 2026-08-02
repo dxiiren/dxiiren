@@ -78,8 +78,16 @@ Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB ·
 
 ## 📊 GitHub stats
 
-![](https://github-stats-extended-seven.vercel.app/api?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended-seven.vercel.app/api?username=dxiiren&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&include_all_commits=true&hide=stars,issues,contribs&hide_rank=true&show=prs_merged,prs_merged_percentage)
+![](https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&layout=donut&size_weight=0&count_weight=1&langs_count=9&hide=hack,jupyter%20notebook,blade,just,html,css)
+
+> Languages ranked by how many projects use them, not bytes of code — the point is range.
+
+## 📌 Pinned work
+
+![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=cp-detection&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
+![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=career-buddy&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
+![](https://github-stats-extended-seven.vercel.app/api/pin/?username=dxiiren&repo=project-skeleton&title_color=F5A623&icon_color=F5A623&text_color=C9D1D9&bg_color=0D1117&border_color=30363D)
 
 ## 📬 Reach me
 
