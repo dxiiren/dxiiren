@@ -60,33 +60,16 @@ Every badge below is backed by a public repo you can read.
 
 Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB · AWS (SNS/SQS/ECS/S3/Lambda) · Docker · Nginx · Jenkins · Gitea CI/CD · Harbor · Prometheus · Grafana · SonarQube · REST Assured · Ollama · vLLM
 
-## 📈 Experience highlights
-
-| Role | Impact |
-|---|---|
-| Senior Technical Consultant | Team of 14 \| 3-portal platform migration |
-| Backend Engineer | 95% data mismatch reduction |
-| Backend Developer | 50K+ daily transactions |
-| IT Trainee (K-Youth programme) | 30% productivity increase |
-| Fullstack Developer | 60% faster deployments |
-
-## 🎓 Education & credentials
-
-- **BBA (Honours)** — Innovative University College — CGPA 4.0 (in progress)
-- **Diploma in Computer Science** — Universiti Teknologi MARA (UiTM) — CGPA 3.86 — **Vice Chancellor Award**
-- Certifications: Master Laravel 11 & PHP (Udemy, 2025) · Vue Developer Bootcamp (Udemy, 2025) · Python Programming Bootcamp (Khazanah K-Youth, 2023) · WordPress site building ×2 (Coursera, 2023)
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="190" alt="GitHub stats" src="https://github-stats-extended-seven.vercel.app/api?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,prs_merged_percentage&amp;card_width=340" />
-  <img height="190" alt="Most used languages" src="https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;langs_count=8&amp;hide=hack,jupyter%20notebook,blade,just,html,css&amp;card_width=340" />
+  <img height="190" alt="All-time GitHub activity" src="https://github-stats-extended-seven.vercel.app/api?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;hide_rank=true&amp;show=prs_merged,prs_merged_percentage&amp;card_width=340&amp;custom_title=All-time%20activity" />
+  <img height="190" alt="Languages by project count" src="https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;langs_count=8&amp;hide=hack,jupyter%20notebook,blade,just,html,css&amp;card_width=340&amp;custom_title=Languages%20by%20project%20count" />
 </p>
 
-<p align="center"><sub>Languages ranked by how many projects use them, not bytes of code — the point is range.</sub></p>
-
 <p align="center">
-  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=dxiiren&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=F5A623&amp;point=F5A623&amp;area_color=F5A623&amp;title_color=F5A623&amp;area=true&amp;custom_title=Contribution%20activity" />
+  <img width="100%" alt="Contributions over the last 90 days" src="https://github-readme-activity-graph.vercel.app/graph?username=dxiiren&amp;days=90&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=F5A623&amp;point=F5A623&amp;area_color=F5A623&amp;title_color=F5A623&amp;area=true&amp;custom_title=Contributions%20-%20last%2090%20days" />
 </p>
 
 ## 📬 Reach me
