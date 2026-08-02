@@ -68,10 +68,6 @@ Spring Boot · Node.js · SvelteKit/Svelte · PostgreSQL · Redis · DynamoDB ·
   <img height="190" alt="Languages by project count" src="https://github-stats-extended-seven.vercel.app/api/top-langs/?username=dxiiren&amp;title_color=F5A623&amp;icon_color=F5A623&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;langs_count=8&amp;hide=hack,jupyter%20notebook,blade,just,html,css&amp;card_width=340&amp;custom_title=Languages%20by%20project%20count" />
 </p>
 
-<p align="center">
-  <img width="100%" alt="Contributions over the last 90 days" src="https://github-readme-activity-graph.vercel.app/graph?username=dxiiren&amp;days=90&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=F5A623&amp;point=F5A623&amp;area_color=F5A623&amp;title_color=F5A623&amp;area=true&amp;custom_title=Contributions%20-%20last%2090%20days" />
-</p>
-
 ## 📬 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/akmal-suhaimi) · [akmalsuhaimi.com](https://www.akmalsuhaimi.com)
